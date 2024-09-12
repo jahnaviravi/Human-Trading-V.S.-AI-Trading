@@ -1,4 +1,4 @@
-# Financial Analytics: AI vs Human Trading Strategies
+# Artificial Intelligence and the Trader’s Touch: A Comparative Study
 <div align="center">
   <img width="840" alt="Screenshot 2024-09-11 at 4 00 21 PM" src="https://github.com/user-attachments/assets/60da71d1-ea0d-40f0-93c0-55d03f3b4dac">
 </div>
