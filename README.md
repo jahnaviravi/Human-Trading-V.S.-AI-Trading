@@ -19,7 +19,7 @@ This project explores the comparative effectiveness of AI-driven trading strateg
 5. **Comparative Analysis**: Evaluated both strategies against benchmark indices and each other.
 
 ## Tools and Techniques Used
-- **Programming Languages**: R, Python
+- **Programming Languages**: R, Python and Excel
 - **Data Analysis Libraries**: PerformanceAnalytics (R), pandas, numpy (Python)
 - **Visualization Tools**: ggplot2 (R), matplotlib, seaborn (Python)
 - **Financial APIs**: Yahoo Finance, Alpaca API
